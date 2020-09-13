@@ -13,6 +13,6 @@ Otros temas a destacar es que me enfoco en usar progragramacion reactiva y funci
 de reactivex o project reactor, tambie al uso de patrones de diseño y de arquictectura, estructura de datos,
 y algoritmia
 
-<h1 align="center"> Contacto 👋</h1>
+### Contacto
 
 - [Linkeding](https://www.linkedin.com/in/ing-brayan-martinez)
