@@ -17,3 +17,4 @@ y algoritmia
 
 - [Linkeding](https://www.linkedin.com/in/ing-brayan-martinez)
 - [Telegram](https://t.me/Ing_Brayan_Martinez)
+- [Chronzy](https://www.chronzy.com/Ing-Brayan-Martinez)
