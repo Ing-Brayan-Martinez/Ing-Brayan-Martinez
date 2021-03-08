@@ -5,13 +5,19 @@
 </h1>
 
 Mi nombre es Brayan Martinez mejor conocido en internet como Ing-Brayan-Martinez, me dedico al desarrollo de
-soluciones de software, a clientes nacionales e internacionales, me concidero un programador fullstack
-ya que desarrollo software para backend usando herramientas como spring webflux, asp net core, para el
-frontend me estoy especializando en desarrollo mobile en android, flutter y proximamente ios.
+soluciones de software, a clientes nacionales e internacionales, me considero un programador fullstack porque 
+desarrollo aplicaciones para el Back-End como soluciones en Cloud Computing sobre los diversos servicios que
+ofrece Microsoft Azure, para esta tarea utilizo principalmente el marco de trabajo Spring Cloud, Spring Boot,
+Spring WebFlux, etc. Para el desarrollo de aplicaciones del lado del Frontend me estoy enfocando solo para usar
+el marco de trabajo Flutter, ya que el mismo ofrece la ventaja de que con la misma base de código se puede crear
+soluciones multiplataforma.
 
-Otros temas a destacar es que me enfoco en usar progragramacion reactiva y funcional gracias a herramientas
-de reactivex o project reactor, tambie al uso de patrones de diseño y de arquictectura, estructura de datos,
-y algoritmia
+Otros temas a destacar es que en el momento de codificar me enfoco en utilizar el paradigma de programación 
+reactiva y funcional donde corresponda usarla, ya que este tipo de paradigmas no pueden resolver todos los problemas,
+para esta tarea utilizo librerías como Reactivex (RxJava) o Project Reactor. También ago uso de patrones de diseño,
+estructura de datos, algoritmia, etc. Por último destaco que no he terminado mis estudios universitarios y que toda mi
+formación es híbrida entre la universidad y autodidacta para estar al dia con las tecnologías más punteras, estando
+en constante mejora y evolución.
 
 ### Contacto
 
