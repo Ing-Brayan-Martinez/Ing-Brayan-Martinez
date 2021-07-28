@@ -22,5 +22,6 @@ en constante mejora y evolución.
 ### Contacto
 
 - [Linkeding](https://www.linkedin.com/in/ing-brayan-martinez)
+- [Allmylinks](https://allmylinks.com/ing-brayan-martinez)
 - [Telegram](https://t.me/Ing_Brayan_Martinez)
 - [Chronzy](https://www.chronzy.com/Ing-Brayan-Martinez)
