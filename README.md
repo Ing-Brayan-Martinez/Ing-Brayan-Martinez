@@ -34,4 +34,3 @@ orientada al objeto (POO), además ago uso de patrones de diseño, estructura de
 - [Linkeding](https://www.linkedin.com/in/ing-brayan-martinez)
 - [Torre](https://torre.co/es/ingbrayanmartinez?s=HAjTiGLa3w)
 - [Chronzy](https://www.chronzy.com/Ing-Brayan-Martinez)
-- [Allmylinks](https://allmylinks.com/ing-brayan-martinez)
