@@ -28,9 +28,3 @@ Para finalizar hablare de las buenas prácticas que utilizo al momento de codifi
 de programación reactiva y funcional donde corresponda usarla, ya que este tipo de paradigmas no pueden resolver todos 
 los problemas, para esta tarea utilizo librerías como Reactive X (RxJava, RxDart) o Project Reactor, programación 
 orientada al objeto (POO), además ago uso de patrones de diseño, estructura de datos, y principios SOLID.
-
-### Contacto
-
-- [Linkeding](https://www.linkedin.com/in/ing-brayan-martinez)
-- [Torre](https://torre.co/es/ingbrayanmartinez?s=HAjTiGLa3w)
-- [Chronzy](https://www.chronzy.com/Ing-Brayan-Martinez)
