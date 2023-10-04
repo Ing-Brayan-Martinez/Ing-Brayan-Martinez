@@ -5,7 +5,7 @@
 </h1>
 
 Mi nombre es Brayan Martinez mejor conocido en internet como Ing-Brayan-Martinez, me dedico al desarrollo de soluciones 
-de software, a clientes nacionales e internacionales, me considero un programador Senior por toda la experiencia 
+de software, para clientes nacionales e internacionales, me considero un programador Senior por toda la experiencia 
 acumulada desde el 2017 hasta hoy, actualmente me estoy enfocando en el nicho de mercado de la industria FinTech, la 
 cual ha tenido un gran auge desde el 2020. Para entender que tipo de soluciones puedo aportar, veamos lo siguiente:
 
@@ -15,9 +15,9 @@ cual ha tenido un gran auge desde el 2020. Para entender que tipo de soluciones 
 código se puede crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un buen acabado
 estético.
 
-- **Desarrollo con Tensorflow:** Ahora a partir del **2022 el auge de la inteligencia artificial** se ha echo muy 
+- **Desarrollo con Tensorflow:** A partir del **2022 el auge de la inteligencia artificial** se ha echo muy 
 importante brindar soluciones en este area, para eso me apoyo en [tensorflow](https://www.tensorflow.org/) con la 
-libreria [tflite](https://pub.dev/packages/tflite_flutter) la cual es compatible con flutter para implementar modelos IA
+libreria [tflite_flutter](https://pub.dev/packages/tflite_flutter) la cual es compatible con flutter para implementar modelos IA
 y aprovechar el nuevo hardware el cual tiene nucleos dedicados a la IA llamados NPU, cabe destacar que apenas en 2023 
 estoy iniciandome en este sector, por lo cual mi conocimiento aun es limitado.
 
