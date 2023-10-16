@@ -1,7 +1,7 @@
 <h1 align="center"> Sobre Mi 👋</h1>
 
 <h1 align="center">
-  <img src="https://github.com/Ing-Brayan-Martinez/Ing-Brayan-Martinez/blob/master/docs/spring-ecosystem-750x410.jpg" alt="Code" width="800"/>
+  <img src="https://github.com/Ing-Brayan-Martinez/Ing-Brayan-Martinez/blob/master/docs/GitHub-Portada.png" alt="Code" width="800"/>
 </h1>
 
 Mi nombre es Brayan Martinez mejor conocido en internet como Ing-Brayan-Martinez, me dedico al desarrollo de soluciones 
