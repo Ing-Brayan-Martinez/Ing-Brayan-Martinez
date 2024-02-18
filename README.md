@@ -17,7 +17,8 @@ estético.
 
 - **Desarrollo con IA:** A partir del **2022 el auge de la inteligencia artificial** se ha echo muy importante y es necesario
 brindar soluciones en este area, para eso me apoyo con el [AI Studio](https://aistudio.google.com/app/prompts/new_chat) para
-usa el modelo Gemini proveido por Google usando la libreria [google_generative_ai ](https://pub.dev/packages/google_generative_ai) 
+usa el modelo [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria 
+  [google_generative_ai ](https://pub.dev/packages/google_generative_ai) 
 la cual es compatible con flutter para implementar modelos IA desde la nube usando la API ge Gemini consultar
 la [documentacion](https://ai.google.dev/)
 
