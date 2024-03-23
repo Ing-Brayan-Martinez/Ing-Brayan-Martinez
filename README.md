@@ -14,20 +14,14 @@ para poder crecer como persona y como profesional. Para entender que tipo de sol
 ### Soluciones con Dart y Flutter
 
 - **Desarrollo con Flutter:** El framework [flutter](https://flutter.dev/) ofrece la ventaja de que con la misma base de código se puede
-crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un excelente acabado 
-estético.</br>
+  crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un excelente acabado 
+  estético.</br>
 
 - **Desarrollo con Firebase:** La plataforma [firebase](https://firebase.google.com) te permite desarrollar apps sin
   preocuparte por la complejidad del back end, ya que se basa en el modelo **back end como servicio (BasS)** el cual te
   brinda soluciones pre construidas de solo conectar y usar, firebase es compatible con flutter gracias a la libreria
   [flutterfire](https://firebase.flutter.dev/), esto permite dar soluciones 
   rapidas al cliente.</br>
-
-- **Desarrollo con Gemini API:** A partir del **2022 el auge de la inteligencia  artificial** se ha echo muy importante y es
-necesario brindar soluciones en este area, para eso me apoyo con el [AI Studio](https://aistudio.google.com/app/prompts/new_chat)
-para usa el modelo [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria 
-  [google_generative_ai ](https://pub.dev/packages/google_generative_ai)la cual es compatible con flutter para implementar modelos IA
-desde la nube usando la API de Gemini consultar la [documentacion](https://ai.google.dev/)
 
 ### Soluciones con Agular, Spring Boot, y Azure
 
@@ -45,3 +39,11 @@ relacionados al mismo, como los manejadores de paquetes, el análisis estático 
 virtualizacion de contenedores, registro de contenedores, entre otros.
 
 
+### Integraciones de APIs
+
+- **Integracion con la Gemini API:** A partir del **2022 el auge de la inteligencia  artificial** se ha echo muy 
+  importante y es necesario brindar soluciones en este area, para eso me apoyo con el
+  [AI Studio](https://aistudio.google.com/app/prompts/new_chat)para usa el modelo
+  [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria
+  [google_generative_ai ](https://pub.dev/packages/google_generative_ai)la cual es compatible con flutter para
+  implementar modelos IA desde la nube usando la API de Gemini consultar la [documentacion](https://ai.google.dev/)
