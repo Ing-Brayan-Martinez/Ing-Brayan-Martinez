@@ -13,14 +13,14 @@ para poder crecer como persona y como profesional. Para entender que tipo de sol
 
 ### Soluciones con Dart y Flutter
 
-- **Desarrollo con Flutter:** El framework [flutter](https://flutter.dev/) ofrece la ventaja de que con la misma base de código se puede
-  crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un excelente acabado 
-  estético.
+- **Desarrollo con Flutter:** El framework [Flutter](https://flutter.dev/) ofrece la ventaja de que con la misma 
+  base de código se puede crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un 
+  excelente acabado estético.
 
-- **Desarrollo con Firebase:** La plataforma [firebase](https://firebase.google.com) te permite desarrollar apps sin
+- **Desarrollo con Firebase:** La plataforma [Firebase](https://firebase.google.com) te permite desarrollar apps sin
   preocuparte por la complejidad del back end, ya que se basa en el modelo **back end como servicio (BasS)** el cual te
   brinda soluciones pre construidas de solo conectar y usar, firebase es compatible con flutter gracias a la libreria
-  [flutterfire](https://firebase.flutter.dev/), esto permite dar soluciones 
+  [Flutter Fire](https://firebase.flutter.dev/), esto permite dar soluciones 
   rapidas al cliente.
 
 ### Soluciones con Agular, Spring Boot, y Azure
@@ -28,7 +28,7 @@ para poder crecer como persona y como profesional. Para entender que tipo de sol
 - **Desarrollo con Angular:** Para el desarrollo con front end en Azure me he decidido por 
   [Angular](https://angular.io/) ya que es el framework con el cual tengo mayor experiencia, y me ha tocado resolver 
   varios proyectos, adicionalmente la plataforma azure de 100% soporte para esta tecnología, las novedades de Angular 16
-  y 17, es algo que realmente le hacia falta, sobretodo en la parte de testing usando [jest.js](https://jestjs.io/), 
+  y 17, es algo que realmente le hacia falta, sobretodo en la parte de testing usando [Jest.js](https://jestjs.io/), 
   otro apspecto importante es lalibreria de componentes [Angular Material](https://material.angular.io/) y el 
   manejador de estado [NGRX](https://ngrx.io/) que ahorran mucho trabajo.
 
