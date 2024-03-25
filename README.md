@@ -18,8 +18,8 @@ siguiente:
 - **Desarrollo con Flutter:** El framework [Flutter](https://flutter.dev/) ofrece la ventaja de que con la misma 
   base de código se puede crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un 
   excelente acabado estético, ideal para ahorra costo, y tener un mayor alcance a la hora de crear un producto, 
-  flutter es ideal para pequenos negocios como: Restaurantes, Neobancos, Empresas de movilidad, empresas de social 
-  media, entro otro tipo de empresas.
+  flutter es ideal para pequenos negocios como: Restaurantes, Neobancos, Empresas de movilidad, Empresas de social 
+  media, Entre otro tipo de empresas.
 
 - **Desarrollo con Firebase:** La plataforma [Firebase](https://firebase.google.com) te permite desarrollar apps sin
   preocuparte por la complejidad del back end, ya que se basa en el modelo **back end como servicio (BasS)** el cual te
@@ -27,7 +27,7 @@ siguiente:
   [Flutter Fire](https://firebase.flutter.dev/), esto permite dar soluciones rapidas al cliente, ahorrando costos ideal
   para pequenos negocios.
 
-### Soluciones con Agular, Spring Boot, y Azure
+### Soluciones con Angular, Spring Boot, y Azure
 
 - **Desarrollo con Angular:** Para el desarrollo con front end en Azure me he decidido por 
   [Angular](https://angular.io/) ya que es el framework con el cual tengo mayor experiencia, y me ha tocado resolver 
