@@ -66,9 +66,10 @@ siguiente:
   bajo la filosofia ServerLess simplificando la manera de crear un back end sin necesida de lidiar con la 
   complejidad de la infraestructura.
 
-- **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos DevOps, es importante el uso 
-  de la CI/CD y todos los conceptos relacionados al mismo, como los manejadores de paquetes, el análisis estático del 
-  código, pruebas unitarias, registro de contenedores, etc, Para hacer esto posible utilizo la plataform de 
+- **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos 
+  [DevOps](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops), es importante el 
+  uso de la CI/CD y todos los conceptos relacionados al mismo, como los manejadores de paquetes, el análisis estático
+  del código, pruebas unitarias, registro de contenedores, etc, Para hacer esto posible utilizo la plataform de 
   [Github](https://github.com/) y las GitHub Actions para poder administrarvel codigo esta plataforma es 
   completamente compatible con Azure ya que ambas son parte de Microsft.
 
