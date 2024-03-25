@@ -35,13 +35,14 @@ siguiente:
   que realmente le hacia falta, sobretodo el soporte de unit testing usando [Jest.js](https://jestjs.io/). Otro 
   aspecto importante es la librería de componentes [Angular Material](https://material.angular.io/) y el 
   gestor de estado [NGRX](https://ngrx.io/) que combinados con Angular permiten ahorrar mucho trabajo, lo que 
-  permite tambien ahorrar tiempo y dinero. Angular es un framework ideal para sitios web grandes como: ERPs, Banca 
-  en linea, Tiendas online, Plataforma educativas, entro tipo de empresas.
+  permite tambien ahorrar tiempo y dinero. Angular es un framework ideal para sitios web grandes como: ERPs, banca 
+  en linea, tiendas online, plataforma educativas, entro tipo de empresas.
 
 - **Desarrollo con Spring Boot:** Para desarrollo de back end tradicionales me apollo en el framework 
   [Spring Boot](https://spring.io/) y algunas de sus variantes como lo son [Spring Cloud](https://spring.io/cloud) y
-  [Spring Webflux](https://spring.io/reactive), este framework es ideal para crear backend con carga de trabjo 
-  demandante como serían las de un: ERP, Banca en linea, Tiendas online, Plataforma educativas, entro tipo de empresas.
+  [Spring Webflux](https://spring.io/reactive), este framework es ideal para crear backend con carga de trabajo 
+  demandante, ideal para producir una plataforma robusta, resistente al tiempo, y altamente la escalable, ejemplos de 
+  uso serían las de un: ERPs, banca en linea, tiendas online, plataforma educativas, entro tipo de empresas.
 
 - **Desarrollo con Azure Kubernetes Service:** Para lograr poner en produccion aplicaciones back end echas con 
   Spring Boot es necesario usar algun proveedor de cloud, yo me apoyo en [Azure](https://azure.microsoft.com/en-us), el 
