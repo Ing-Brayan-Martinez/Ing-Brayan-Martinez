@@ -46,23 +46,31 @@ siguiente:
 - **Desarrollo con Azure Kubernetes Service:** Para lograr poner en produccion aplicaciones back end echas con 
   Spring Boot es necesario usar algun proveedor de cloud, yo me apoyo en [Azure](https://azure.microsoft.com/en-us), el 
   cual ofrece soporte official a la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), con 
-  diversidad de opciones, en este caso voy habla de Azure Kubernetes Service, el cual es servicio pensado con la 
-  filosofía de infraestructura como servicio (IasS), que permite desplegar en produccion soluciones de software con 
-  carga de trabajo demandantes, en mi caso mi rol seria el de desplegar nuevos microservicios, para la instalcion y 
-  supervicion es mejor optar por personal especializado para esto fines como son los DevOps yo podria ejercer esta 
-  funcion pero mi conocimiento es limitado por ahora. 
+  diversidad de opciones, en este caso voy habla de 
+  [Azure Kubernetes Service](https://azure.microsoft.com/en-us/products/kubernetes-service), el cual es servicio 
+  pensado con la filosofía de infraestructura como servicio (IasS), que permite desplegar en produccion soluciones de 
+  software con carga de trabajo demandantes, en mi caso mi rol seria el de desplegar nuevos microservicios, para la 
+  instalcion y supervicion es mejor optar por personal especializado para esto fines como son los DevOps yo podria 
+  ejercer esta funcion pero mi conocimiento es limitado por ahora. 
 
 - **Desarrollo con Azure Spring Apps:** Para lograr desplegar en [Azure](https://azure.microsoft.com/en-us), soluciones 
   echas en la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), tambien tenemos la opcion
-  de Azure Spring Apps el cual es un servicio pensado con la filosofía de plataforma como servicio (PasS) 
+  de [Azure Spring Apps](https://azure.microsoft.com/en-us/products/spring-apps) el cual es un servicio pensado con la 
+  filosofía de plataforma como servicio (PasS) lo cual es ideal para programadores porque es posible desplegar sin 
+  lidiar con la complejidad de la infraestructura porque Azure se encarga por nostors de automatizar procesos, la unica
+  pega es la perdida de control porque todo esta automatizado.
 
-- **Desarrollo con Azure Functions:**
+- **Desarrollo con Azure Functions:** Otra alternativa que ofrece [Azure](https://azure.microsoft.com/en-us), con 
+  filosofia de plataforma como servicio (PasS) son las 
+  [Azure Functions](https://azure.microsoft.com/en-us/products/functions) la cual nos permite crear microservicio 
+  bajo la filosofia ServerLess simplificando la manera de crear un back end sin necesida de lidiar con la 
+  complejidad de la infraestructura.
 
-
-- **Desarrollo con GitHub:**  Otros temas importante es la
-  implementacion de los ciclos devops, es importante el uso de la CI/CD y todos los conceptos relacionados al mismo,
-  como los manejadores de paquetes, el análisis estático del código, pruebas unitarias, virtualizacion de contenedores,
-  registro de contenedores, entre otros.y [github](https://github.com/)
+- **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos DevOps, es importante el uso 
+  de la CI/CD y todos los conceptos relacionados al mismo, como los manejadores de paquetes, el análisis estático del 
+  código, pruebas unitarias, registro de contenedores, etc, Para hacer esto posible utilizo la plataform de 
+  [Github](https://github.com/) y las GitHub Actions para poder administrarvel codigo esta plataforma es 
+  completamente compatible con Azure ya que ambas son parte de Microsft.
 
 ### Integraciones de APIs
 
