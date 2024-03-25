@@ -17,26 +17,26 @@ siguiente:
 
 - **Desarrollo con Flutter:** El framework [Flutter](https://flutter.dev/) ofrece la ventaja de que con la misma 
   base de código se puede crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un 
-  excelente acabado estético, ideal para ahorra costo, y tener un mayor alcance a la hora de crear un producto, 
-  flutter es ideal para pequenos negocios como: Restaurantes, Neobancos, Empresas de movilidad, Empresas de social 
-  media, Entre otro tipo de empresas.
+  excelente acabado estético, ideal para ahorrar costo, crear un producto atractivo para el usuario final y tener un 
+  mayor alcance de usuarios en distintas plataformas. Flutter es ideal para pequeños negocios como: restaurantes, 
+  neo-bancos, empresas de movilidad, empresas de redes sociales, Entre otro tipo de empresas.
 
 - **Desarrollo con Firebase:** La plataforma [Firebase](https://firebase.google.com) te permite desarrollar apps sin
   preocuparte por la complejidad del back end, ya que se basa en el modelo **back end como servicio (BasS)** el cual te
-  brinda soluciones pre construidas de solo conectar y usar, firebase es compatible con flutter gracias a la libreria
+  brinda soluciones pre construidas de solo conectar y usar, firebase es compatible con flutter gracias a la librería
   [Flutter Fire](https://firebase.flutter.dev/), esto permite dar soluciones rapidas al cliente, ahorrando costos ideal
-  para pequenos negocios.
+  para pequeños negocios.
 
 ### Soluciones con Angular, Spring Boot, y Azure
 
-- **Desarrollo con Angular:** Para el desarrollo con front end en Azure me he decidido por 
-  [Angular](https://angular.io/) ya que es el framework con el cual tengo mayor experiencia, y me ha tocado resolver 
-  varios proyectos, adicionalmente la plataforma azure de 100% soporte para esta tecnología, las novedades de Angular 16
-  y 17, es algo que realmente le hacia falta, sobretodo en la parte de testing usando [Jest.js](https://jestjs.io/), 
-  otro apspecto importante es lalibreria de componentes [Angular Material](https://material.angular.io/) y el 
-  manejador de estado [NGRX](https://ngrx.io/) que ahorran mucho trabajo, lo que permite ahorra tiempo y dinero, 
-  Angular es un framework ideal para sitios web grandes como: ERPs, Banca en linea, Tiendas online, Plataforma 
-  educativas, entro tipo de empresas.
+- **Desarrollo con Angular:** Para el desarrollo con front end me he decidido por [Angular](https://angular.io/) ya que 
+  es el framework Javascript, el cual tengo mayor experiencia, y me con el que ha tocado resolver en varios proyectos, 
+  adicionalmente la plataforma Azure da 100% soporte para esta tecnología, las novedades de Angular 16 y 17, es algo 
+  que realmente le hacia falta, sobretodo el soporte de unit testing usando [Jest.js](https://jestjs.io/). Otro 
+  aspecto importante es la librería de componentes [Angular Material](https://material.angular.io/) y el 
+  gestor de estado [NGRX](https://ngrx.io/) que combinados con Angular permiten ahorrar mucho trabajo, lo que 
+  permite tambien ahorrar tiempo y dinero. Angular es un framework ideal para sitios web grandes como: ERPs, Banca 
+  en linea, Tiendas online, Plataforma educativas, entro tipo de empresas.
 
 - **Desarrollo con Spring Boot:** Para desarrollo de back end tradicionales me apollo en el framework 
   [Spring Boot](https://spring.io/) y algunas de sus variantes como lo son [Spring Cloud](https://spring.io/cloud) y
