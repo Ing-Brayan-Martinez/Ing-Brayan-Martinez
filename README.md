@@ -1,7 +1,7 @@
 <h1 align="center"> Sobre Mi 👋</h1>
 
 <h1 align="center">
-  <img src="https://github.com/Ing-Brayan-Martinez/Ing-Brayan-Martinez/blob/master/docs/microservices-whatsapp.jpg" 
+  <img src="https://github.com/Ing-Brayan-Martinez/Ing-Brayan-Martinez/blob/master/docs/maxresdefault.jpg" 
     alt="Code" width="800"/>
 </h1>
 
@@ -29,6 +29,13 @@ siguiente:
   demandante, ideal para producir una plataforma robusta, resistente al tiempo, y altamente la escalable, ejemplos de 
   uso serían las de un: ERPs, banca en linea, tiendas online, plataforma educativas, entro tipo de empresas.
 
+- **Desarrollo con Azure Spring Apps:** Para lograr desplegar en [Azure](https://azure.microsoft.com/en-us), soluciones
+    echas en la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), tambien tenemos la opcion
+    de [Azure Spring Apps](https://azure.microsoft.com/en-us/products/spring-apps) el cual es un servicio pensado con la
+    filosofía de plataforma como servicio (PasS) lo cual es ideal para programadores porque es posible desplegar sin
+    lidiar con la complejidad de la infraestructura porque Azure se encarga por nostors de automatizar procesos, la unica
+    pega es la perdida de control porque todo esta automatizado.
+
 - **Desarrollo con Azure Kubernetes Service:** Para lograr poner en produccion aplicaciones back end echas con 
   Spring Boot es necesario usar algun proveedor de cloud, yo me apoyo en [Azure](https://azure.microsoft.com/en-us), el 
   cual ofrece soporte official a la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), con 
@@ -38,13 +45,6 @@ siguiente:
   software con carga de trabajo demandantes, en mi caso mi rol seria el de desplegar nuevos microservicios, para la 
   instalcion y supervicion es mejor optar por personal especializado para esto fines como son los DevOps yo podria 
   ejercer esta funcion pero mi conocimiento es limitado por ahora. 
-
-- **Desarrollo con Azure Spring Apps:** Para lograr desplegar en [Azure](https://azure.microsoft.com/en-us), soluciones 
-  echas en la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), tambien tenemos la opcion
-  de [Azure Spring Apps](https://azure.microsoft.com/en-us/products/spring-apps) el cual es un servicio pensado con la 
-  filosofía de plataforma como servicio (PasS) lo cual es ideal para programadores porque es posible desplegar sin 
-  lidiar con la complejidad de la infraestructura porque Azure se encarga por nostors de automatizar procesos, la unica
-  pega es la perdida de control porque todo esta automatizado.
 
 - **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos 
   [DevOps](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops), es importante el 
