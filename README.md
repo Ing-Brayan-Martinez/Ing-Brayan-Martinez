@@ -52,12 +52,3 @@ siguiente:
   del código, pruebas unitarias, registro de contenedores, etc, Para hacer esto posible utilizo la plataform de 
   [Github](https://github.com/) y las GitHub Actions para poder administrarvel codigo esta plataforma es 
   completamente compatible con Azure ya que ambas son parte de Microsft.
-
-### Integraciones de APIs
-
-- **Integracion con la Gemini API:** A partir del **2022 el auge de la inteligencia  artificial** se ha echo muy 
-  importante y es necesario brindar soluciones en este area, para eso me apoyo con el 
-  [AI Studio](https://aistudio.google.com/app/prompts/new_chat)para usa el modelo
-  [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria
-  [google_generative_ai ](https://pub.dev/packages/google_generative_ai)la cual es compatible con flutter para
-  implementar modelos IA desde la nube usando la API de Gemini consultar la [documentacion](https://ai.google.dev/)

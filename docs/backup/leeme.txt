@@ -26,3 +26,13 @@
   [Azure Functions](https://azure.microsoft.com/en-us/products/functions) la cual nos permite crear microservicio
   bajo la filosofia ServerLess simplificando la manera de crear un back end sin necesida de lidiar con la
   complejidad de la infraestructura.
+
+
+### Integraciones de APIs
+
+- **Integracion con la Gemini API:** A partir del **2022 el auge de la inteligencia  artificial** se ha echo muy
+  importante y es necesario brindar soluciones en este area, para eso me apoyo con el
+  [AI Studio](https://aistudio.google.com/app/prompts/new_chat)para usa el modelo
+  [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria
+  [google_generative_ai ](https://pub.dev/packages/google_generative_ai)la cual es compatible con flutter para
+  implementar modelos IA desde la nube usando la API de Gemini consultar la [documentacion](https://ai.google.dev/)
