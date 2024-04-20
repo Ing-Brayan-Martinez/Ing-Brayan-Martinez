@@ -21,13 +21,15 @@ siguiente:
   mayor alcance de usuarios en distintas plataformas. Flutter es ideal para pequeños negocios como: restaurantes, 
   neo-bancos, empresas de movilidad, empresas de redes sociales, Entre otro tipo de empresas.
 
-### Soluciones con Spring Boot y Azure
+### Soluciones con Java y Spring Boot
 
 - **Desarrollo con Spring Boot:** Para desarrollo de back end tradicionales me apollo en el framework 
   [Spring Boot](https://spring.io/) y algunas de sus variantes como lo son [Spring Cloud](https://spring.io/cloud) y
   [Spring Webflux](https://spring.io/reactive), este framework es ideal para crear backend con carga de trabajo 
   demandante, ideal para producir una plataforma robusta, resistente al tiempo, y altamente la escalable, ejemplos de 
   uso serían las de un: ERPs, banca en linea, tiendas online, plataforma educativas, entro tipo de empresas.
+
+### Soluciones con Microsoft Azure y GitHub
 
 - **Desarrollo con Azure Spring Apps:** Para lograr desplegar en [Azure](https://azure.microsoft.com/en-us), soluciones
     echas en la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), tambien tenemos la opcion
