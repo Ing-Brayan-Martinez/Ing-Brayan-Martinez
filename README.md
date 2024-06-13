@@ -13,7 +13,7 @@ de posibilidades de empleo. Yo estoy buscando una oportunidad de empleo donde ex
 para poder crecer como persona y como profesional. Para entender que tipo de soluciones puedo aportar, veamos lo 
 siguiente:
 
-### Soluciones con Dart y Flutter
+### Soluciones con Dart
 
 - **Desarrollo con Flutter:** El framework [Flutter](https://flutter.dev/) ofrece la ventaja de que con la misma 
   base de código se puede crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un 
@@ -21,7 +21,7 @@ siguiente:
   mayor alcance de usuarios en distintas plataformas. Flutter es ideal para pequeños negocios como: restaurantes, 
   neo-bancos, empresas de movilidad, empresas de redes sociales, Entre otro tipo de empresas.
 
-### Soluciones con Java y Spring Boot
+### Soluciones con Kotlin
 
 - **Desarrollo con Spring Boot:** Para desarrollo de back end tradicionales me apollo en el framework 
   [Spring Boot](https://spring.io/) y algunas de sus variantes como lo son [Spring Cloud](https://spring.io/cloud) y
