@@ -27,12 +27,15 @@
   bajo la filosofia ServerLess simplificando la manera de crear un back end sin necesida de lidiar con la
   complejidad de la infraestructura.
 
+### Soluciones con Microsoft Azure y GitHub
 
-### Integraciones de APIs
+- **Desarrollo con Azure Kubernetes Service:** Para lograr poner en produccion aplicaciones back end echas con
+  Spring Boot es necesario usar algun proveedor de cloud, yo me apoyo en [Azure](https://azure.microsoft.com/en-us), el
+  cual ofrece soporte official a la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), con
+  diversidad de opciones, en este caso voy habla de
+  [Azure Kubernetes Service](https://azure.microsoft.com/en-us/products/kubernetes-service), el cual es servicio
+  pensado con la filosofía de infraestructura como servicio (IasS), que permite desplegar en produccion soluciones de
+  software con carga de trabajo demandantes, en mi caso mi rol seria el de desplegar nuevos microservicios, para la
+  instalcion y supervicion es mejor optar por personal especializado para esto fines como son los DevOps yo podria
+  ejercer esta funcion pero mi conocimiento es limitado por ahora.
 
-- **Integracion con la Gemini API:** A partir del **2022 el auge de la inteligencia  artificial** se ha echo muy
-  importante y es necesario brindar soluciones en este area, para eso me apoyo con el
-  [AI Studio](https://aistudio.google.com/app/prompts/new_chat)para usa el modelo
-  [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria
-  [google_generative_ai ](https://pub.dev/packages/google_generative_ai)la cual es compatible con flutter para
-  implementar modelos IA desde la nube usando la API de Gemini consultar la [documentacion](https://ai.google.dev/)

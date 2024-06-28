@@ -23,11 +23,26 @@ siguiente:
 
 ### Soluciones con Kotlin
 
+- **Desarrollo con Android:** El sistema [Android](https://developer.android.com/) es un sistema 
+  operativo de Google, que es muy popular en el mercado, gracias a Kotlin, se puede crear soluciones para ello
+  usando los DSL de Gradle y Jetpack Compose, el cual es un framework de Android para crear 
+  interfaces de usuario de manera declartiva similar a Flutter, ahora es posible invertir en Front End con Kotlin
+  y la JVM.
+
 - **Desarrollo con Spring Boot:** Para desarrollo de back end tradicionales me apollo en el framework 
   [Spring Boot](https://spring.io/) y algunas de sus variantes como lo son [Spring Cloud](https://spring.io/cloud) y
   [Spring Webflux](https://spring.io/reactive), este framework es ideal para crear backend con carga de trabajo 
   demandante, ideal para producir una plataforma robusta, resistente al tiempo, y altamente la escalable, ejemplos de 
   uso serían las de un: ERPs, banca en linea, tiendas online, plataforma educativas, entro tipo de empresas.
+
+### Integraciones de APIs
+
+- **Integracion con la Gemini API:** A partir del **2022 el auge de la inteligencia  artificial** se ha echo muy
+  importante y es necesario brindar soluciones en este area, para eso me apoyo con el
+  [AI Studio](https://aistudio.google.com/app/prompts/new_chat)para usa el modelo
+  [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria
+  [google_generative_ai ](https://pub.dev/packages/google_generative_ai)la cual es compatible con flutter para
+  implementar modelos IA desde la nube usando la API de Gemini consultar la [documentacion](https://ai.google.dev/)
 
 ### Soluciones con Microsoft Azure y GitHub
 
@@ -37,16 +52,6 @@ siguiente:
     filosofía de plataforma como servicio (PasS) lo cual es ideal para programadores porque es posible desplegar sin
     lidiar con la complejidad de la infraestructura porque Azure se encarga por nostors de automatizar procesos, la unica
     pega es la perdida de control porque todo esta automatizado.
-
-- **Desarrollo con Azure Kubernetes Service:** Para lograr poner en produccion aplicaciones back end echas con 
-  Spring Boot es necesario usar algun proveedor de cloud, yo me apoyo en [Azure](https://azure.microsoft.com/en-us), el 
-  cual ofrece soporte official a la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), con 
-  diversidad de opciones, en este caso voy habla de 
-  [Azure Kubernetes Service](https://azure.microsoft.com/en-us/products/kubernetes-service), el cual es servicio 
-  pensado con la filosofía de infraestructura como servicio (IasS), que permite desplegar en produccion soluciones de 
-  software con carga de trabajo demandantes, en mi caso mi rol seria el de desplegar nuevos microservicios, para la 
-  instalcion y supervicion es mejor optar por personal especializado para esto fines como son los DevOps yo podria 
-  ejercer esta funcion pero mi conocimiento es limitado por ahora. 
 
 - **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos 
   [DevOps](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops), es importante el 
