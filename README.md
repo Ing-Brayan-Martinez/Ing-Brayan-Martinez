@@ -41,8 +41,9 @@ siguiente:
   importante y es necesario brindar soluciones en este area, para eso me apoyo con el
   [AI Studio](https://aistudio.google.com/app/prompts/new_chat)para usa el modelo
   [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria
-  [google_generative_ai ](https://pub.dev/packages/google_generative_ai)la cual es compatible con flutter para
-  implementar modelos IA desde la nube usando la API de Gemini consultar la [documentacion](https://ai.google.dev/)
+  [google_generative_ai ](https://ai.google.dev/gemini-api/docs/get-started?hl=es-419)la cual es 
+  compatible con Flutter y Android para implementar modelos IA desde la nube usando la API de Gemini
+  consultar la [documentacion](https://ai.google.dev/)
 
 ### Soluciones con Microsoft Azure y GitHub
 
