@@ -24,8 +24,8 @@ siguiente:
 ### Soluciones con Kotlin
 
 - **Desarrollo con Android:** El sistema [Android](https://developer.android.com/) es un sistema 
-  operativo de Google, que es muy popular en el mercado, gracias a Kotlin, se puede crear soluciones para ello
-  usando los DSL de Gradle y Jetpack Compose, el cual es un framework de Android para crear 
+  operativo de Google, que es muy popular en el mercado, gracias a [Kotlin](https://kotlinlang.org/), se puede crear soluciones para ello
+  usando los DSL de [Gradle](https://gradle.org/) y [Jetpack Compose](https://developer.android.com/develop/ui/compose), el cual es un framework de Android para crear 
   interfaces de usuario de manera declartiva similar a Flutter, ahora es posible invertir en Front End con Kotlin
   y la JVM.
 
