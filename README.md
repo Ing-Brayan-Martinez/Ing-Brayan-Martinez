@@ -43,7 +43,8 @@ siguiente:
   [Gemini](https://gemini.google.com/app) proveido por Google usando la libreria
   [google_generative_ai ](https://ai.google.dev/gemini-api/docs/get-started?hl=es-419)la cual es 
   compatible con Flutter y Android para implementar modelos IA desde la nube usando la API de Gemini
-  consultar la [documentacion](https://ai.google.dev/)
+  consultar la [documentacion](https://ai.google.dev/).
+
 - **Integracion con el SDK ArcGIS:** Se usa para la implementacion de mapas, georeferenciados, 
   en diferentes tipo de aplicaciones, para esto se usa el SDK [ArcGIS](https://developers.arcgis.com/) para 
   generar mapas de alta calida
