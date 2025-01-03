@@ -39,3 +39,9 @@
   instalcion y supervicion es mejor optar por personal especializado para esto fines como son los DevOps yo podria
   ejercer esta funcion pero mi conocimiento es limitado por ahora.
 
+- **Desarrollo con Azure Spring Apps:** Para lograr desplegar en [Azure](https://azure.microsoft.com/en-us), soluciones
+    echas en la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), tambien tenemos la opcion
+    de [Azure Spring Apps](https://azure.microsoft.com/en-us/products/spring-apps) el cual es un servicio pensado con la
+    filosofía de plataforma como servicio (PasS) lo cual es ideal para programadores porque es posible desplegar sin
+    lidiar con la complejidad de la infraestructura porque Azure se encarga por nostors de automatizar procesos, la unica
+    pega es la perdida de control porque todo esta automatizado.

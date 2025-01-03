@@ -35,7 +35,7 @@ siguiente:
   demandante, ideal para producir una plataforma robusta, resistente al tiempo, y altamente la escalable, ejemplos de 
   uso serían las de un: ERPs, banca en linea, tiendas online, plataforma educativas, entro tipo de empresas.
 
-### Integraciones de APIs
+### Integraciones de APIs, SDKs, y Agentes AI.
 
 - **Integracion con la Gemini API:** A partir del **2022 el auge de la inteligencia  artificial** se ha echo muy
   importante y es necesario brindar soluciones en este area, para eso me apoyo con el
@@ -44,15 +44,11 @@ siguiente:
   [google_generative_ai ](https://ai.google.dev/gemini-api/docs/get-started?hl=es-419)la cual es 
   compatible con Flutter y Android para implementar modelos IA desde la nube usando la API de Gemini
   consultar la [documentacion](https://ai.google.dev/)
+- **Integracion con el SDK ArcGIS:** Se usa para la implementacion de mapas, georeferenciados, 
+  en diferentes tipo de aplicaciones, para esto se usa el SDK [ArcGIS](https://developers.arcgis.com/) para 
+  generar mapas de alta calida
 
-### Soluciones con Microsoft Azure y GitHub
-
-- **Desarrollo con Azure Spring Apps:** Para lograr desplegar en [Azure](https://azure.microsoft.com/en-us), soluciones
-    echas en la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), tambien tenemos la opcion
-    de [Azure Spring Apps](https://azure.microsoft.com/en-us/products/spring-apps) el cual es un servicio pensado con la
-    filosofía de plataforma como servicio (PasS) lo cual es ideal para programadores porque es posible desplegar sin
-    lidiar con la complejidad de la infraestructura porque Azure se encarga por nostors de automatizar procesos, la unica
-    pega es la perdida de control porque todo esta automatizado.
+### Soluciones con GitHub
 
 - **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos 
   [DevOps](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops), es importante el 
