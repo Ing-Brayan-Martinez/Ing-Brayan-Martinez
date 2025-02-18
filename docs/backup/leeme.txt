@@ -1,11 +1,7 @@
-- **Desarrollo con Angular:** Para el desarrollo con front end me he decidido por [Angular](https://angular.io/) ya que
-  es el framework Javascript, el cual tengo mayor experiencia, y me con el que ha tocado resolver en varios proyectos,
-  adicionalmente la plataforma Azure da 100% soporte para esta tecnología, las novedades de Angular 16 y 17, es algo
-  que realmente le hacia falta, sobretodo el soporte de unit testing usando [Jest.js](https://jestjs.io/). Otro
-  aspecto importante es la librería de componentes [Angular Material](https://material.angular.io/) y el
-  gestor de estado [NGRX](https://ngrx.io/) que combinados con Angular permiten ahorrar mucho trabajo, lo que
-  permite tambien ahorrar tiempo y dinero. Angular es un framework ideal para sitios web grandes como: ERPs, banca
-  en linea, tiendas online, plataforma educativas, entro tipo de empresas.
+
+
+
+
 
 - **Desarrollo con Firebase:** La plataforma [Firebase](https://firebase.google.com) te permite desarrollar apps sin
   preocuparte por la complejidad del back end, ya que se basa en el modelo **back end como servicio (BasS)** el cual te
@@ -27,21 +23,3 @@
   bajo la filosofia ServerLess simplificando la manera de crear un back end sin necesida de lidiar con la
   complejidad de la infraestructura.
 
-### Soluciones con Microsoft Azure y GitHub
-
-- **Desarrollo con Azure Kubernetes Service:** Para lograr poner en produccion aplicaciones back end echas con
-  Spring Boot es necesario usar algun proveedor de cloud, yo me apoyo en [Azure](https://azure.microsoft.com/en-us), el
-  cual ofrece soporte official a la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), con
-  diversidad de opciones, en este caso voy habla de
-  [Azure Kubernetes Service](https://azure.microsoft.com/en-us/products/kubernetes-service), el cual es servicio
-  pensado con la filosofía de infraestructura como servicio (IasS), que permite desplegar en produccion soluciones de
-  software con carga de trabajo demandantes, en mi caso mi rol seria el de desplegar nuevos microservicios, para la
-  instalcion y supervicion es mejor optar por personal especializado para esto fines como son los DevOps yo podria
-  ejercer esta funcion pero mi conocimiento es limitado por ahora.
-
-- **Desarrollo con Azure Spring Apps:** Para lograr desplegar en [Azure](https://azure.microsoft.com/en-us), soluciones
-    echas en la plataforma [Java](https://azure.microsoft.com/en-us/resources/developers/java), tambien tenemos la opcion
-    de [Azure Spring Apps](https://azure.microsoft.com/en-us/products/spring-apps) el cual es un servicio pensado con la
-    filosofía de plataforma como servicio (PasS) lo cual es ideal para programadores porque es posible desplegar sin
-    lidiar con la complejidad de la infraestructura porque Azure se encarga por nostors de automatizar procesos, la unica
-    pega es la perdida de control porque todo esta automatizado.

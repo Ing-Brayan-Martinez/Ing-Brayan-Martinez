@@ -13,6 +13,20 @@ de posibilidades de empleo. Yo estoy buscando una oportunidad de empleo donde ex
 para poder crecer como persona y como profesional. Para entender que tipo de soluciones puedo aportar, veamos lo 
 siguiente:
 
+### Soluciones Web
+
+- **Desarrollo con Vue:** Durante la ultima 2 decadas las tecnologias web como js, css y 
+  html han sido la principal opcion para construir aplicaciones para multitud de empresas, 
+  partiendo de este contexto personalmente me he decidido a usar [Vue](https://vuejs.org/) 
+  ya que es el framework Javascript, el cual tengo mayor experiencia, y me con el que ha tocado 
+  resolver imporatantes retos en varios proyectos, una de las ventaja de Vue es que 
+  soporta [Vite](https://vite.dev/) y sobretodo el soporte de unit testing usando 
+  [Vitest](https://vitest.dev/guide/). Otro aspecto importante es usar alguna librería de 
+  componentes con Vue tenemos [Vuetify](https://vuetifyjs.com/en/) tambien contamos con un 
+  excelente gestor de estado llamado [Pinia](https://pinia.vuejs.org/) como puede observar Vue 
+  cuenta con un buen ecosistema ideal para crear aplicaciones web grandes como: ERPs, 
+  banca en linea, tiendas online, plataforma educativas, entro tipo de soluciones tecnologicas.
+
 ### Soluciones con Dart
 
 - **Desarrollo con Flutter:** El framework [Flutter](https://flutter.dev/) ofrece la ventaja de que con la misma 
@@ -28,12 +42,6 @@ siguiente:
   usando los DSL de [Gradle](https://gradle.org/) y [Jetpack Compose](https://developer.android.com/develop/ui/compose), el cual es un framework de Android para crear 
   interfaces de usuario de manera declartiva similar a Flutter, ahora es posible invertir en Front End con Kotlin
   y la JVM.
-
-- **Desarrollo con Spring Boot:** Para desarrollo de back end tradicionales me apollo en el framework 
-  [Spring Boot](https://spring.io/) y algunas de sus variantes como lo son [Spring Cloud](https://spring.io/cloud) y
-  [Spring Webflux](https://spring.io/reactive), este framework es ideal para crear backend con carga de trabajo 
-  demandante, ideal para producir una plataforma robusta, resistente al tiempo, y altamente la escalable, ejemplos de 
-  uso serían las de un: ERPs, banca en linea, tiendas online, plataforma educativas, entro tipo de empresas.
 
 ### Integraciones de APIs, SDKs, y Agentes AI.
 
