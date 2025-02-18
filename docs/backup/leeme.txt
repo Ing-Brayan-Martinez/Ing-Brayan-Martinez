@@ -13,4 +13,7 @@ Aprender Supabase
 Aprender AWS Amplify
 Aprender Make AI
 Aprender Zapier
+Aprender N8N
+Aprender Cloudflare
+
 
