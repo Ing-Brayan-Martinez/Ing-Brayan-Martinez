@@ -68,7 +68,7 @@ siguiente:
 - **Integración con los SDK de Firebase:** La plataforma [Firebase](https://firebase.google.com)
   te permite desarrollar apps sin preocuparte por la complejidad del back end, ya que se basa en el 
   modelo **back end como servicio (BasS)** el cual te brinda soluciones pre construidas de solo 
-- conectar y usar como almacenamieto de archivos, analitica, base de datos, identidad entre otros. 
+  conectar y usar como almacenamieto de archivos, analitica, base de datos, identidad entre otros. 
   Firebase es compatible con multiple frameworks comoo Flutter, Vue, Android y IOS.
 
 
@@ -80,8 +80,8 @@ siguiente:
   - [web3j](https://docs.web3j.io/4.8.7/). Para Android. 
   - [web3swift](https://github.com/web3swift-team/web3swift). Para IOS.
   
-  Gracias a todas estas librerías, es posible interactuar con la Blockchain basadas en Web3 y  
-  famosos contratos inteligentes como forma de dinero programable.
+  Gracias a todas estas librerías, es posible interactuar con la Blockchain basadas en Web3 y 
+  los famosos contratos inteligentes como forma de dinero programable.
 
 ### Soluciones con GitHub
 
