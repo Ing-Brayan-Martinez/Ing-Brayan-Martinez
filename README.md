@@ -73,7 +73,7 @@ siguiente:
 
 
 - **Integración con Blockchain:** Las aplicaciones basadas en Web3, DeFi y Blockchain, son un 
-  tipo de apliciacion muy itilizada en mundo FinTech para realizar la integracion en los 
+  tipo de apliciación muy utilizada en mundo FinTech para realizar la integración en los 
   distintos framework tenemos:
   - [web3dart](https://pub.dev/packages/web3dart). Para Flutter. 
   - [web3.js](https://docs.web3js.org/). Para Vue. 
