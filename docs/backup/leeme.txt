@@ -1,25 +1,16 @@
 
-
-
-
-
-- **Desarrollo con Firebase:** La plataforma [Firebase](https://firebase.google.com) te permite desarrollar apps sin
-  preocuparte por la complejidad del back end, ya que se basa en el modelo **back end como servicio (BasS)** el cual te
-  brinda soluciones pre construidas de solo conectar y usar, firebase es compatible con flutter gracias a la librería
-  [Flutter Fire](https://firebase.flutter.dev/), esto permite dar soluciones rapidas al cliente, ahorrando costos ideal
-  para pequeños negocios.
-
-### Soluciones con Web3
-
-- **Desarrollo con Smart Contract:** Para el desarrollo DApps, las cuales son sistemas basados en Web3, DeFi y Blockchain,
-  es necesario desarrollar mini programas llamados smart contract o contrato inteligente estos es tan echo con el lenguaje
-  [solidity](https://soliditylang.org/), para eso me apoyo en el framework [truflle](https://trufflesuite.com/) y
-  [metamask](https://metamask.io/). Los contratos inteligentes son compatible con flutter gracias a la libreria
-  [web3dart](https://pub.dev/packages/web3dart). Todo este nuevo ecosistema es muy usado dentro de la industria FinTech.
-
 - **Desarrollo con Azure Functions:** Otra alternativa que ofrece [Azure](https://azure.microsoft.com/en-us), con
   filosofia de plataforma como servicio (PasS) son las
   [Azure Functions](https://azure.microsoft.com/en-us/products/functions) la cual nos permite crear microservicio
   bajo la filosofia ServerLess simplificando la manera de crear un back end sin necesida de lidiar con la
   complejidad de la infraestructura.
+
+smart contract o contrato inteligente estos es tan echo con el lenguaje
+[solidity](https://soliditylang.org/), para eso me apoyo en el framework [truflle](https://trufflesuite.com/) y
+[metamask](https://metamask.io/).
+
+Aprender Supabase
+Aprender AWS Amplify
+Aprender Make AI
+Aprender Zapier
 
