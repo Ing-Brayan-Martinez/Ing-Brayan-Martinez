@@ -30,7 +30,7 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
 ### Soluciones con Rust
 
 - **Desarrollo con Rust:** Es una tecnologia consolidada en el mercado para desarrollo de codigo de bajo nivel de alta eficiencia,
-  esto es ideal para construir soluciones de alta eficiencia, mi objetivo con Rust es construir librerias que requieran una alta
+  esto es ideal para construir sistemas concurrentes y de mision critica, mi objetivo con Rust es construir librerias que requieran una alta
   disponibilidad y eficiencia, para usarlas en conjunto con Dart para opcines extremas de efieciencia 
 
 ### Plataformas y Herramientas
