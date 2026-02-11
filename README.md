@@ -9,7 +9,7 @@ Mi nombre es Brayan Martinez, me dedico al desarrollo de soluciones de software 
 e internacionales, usando un conjunto de tecnologías específicas, me considero un programador Senior por toda la 
 experiencia acumulada desde el 2017 hasta hoy, en la diversidad de proyectos ejecutados, actualmente me estoy enfocando
 en desarrollar soluciones con los lenguajes Dart y Rust con una vision moderna, durante mucho tiempo fuy un desarrollador 
-Java especializado, ahora me muevo con proyectos un poca mas simples. Estoy abierto a cualquier oportunidad de empleo 
+Java especializado, ahora me muevo con proyectos, mas demandados y simples. Estoy abierto a cualquier oportunidad de empleo 
 donde exista estabilidad laboral a largo plazo para poder crecer como persona y como profesional.
 
 ### Soluciones con Dart
@@ -22,7 +22,7 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
 
 - **Desarrollo con Jaspr:** Actualmente tengo pendiente aprender esto, es una tecnolgia interesante por que [Jaspr](https://jaspr.site/) permite
   construir sitios web usando lenguaje Dart que renderizan HTML, CSS, JS de forma tradicional, de forma cencilla usando 
-  componentes, es una forma alternativa de crear pajinas web de los framewos js tradicionales.
+  componentes, es una forma alternativa de crear pajinas web de los framewos Js tradicionales.
 
 - **Desarrollo con Relic:** Actualmente tengo pendiente aprender esto, es una tecnolgia reciente para crear back end usando el
   lenguaje Dart, [Relic](https://docs.dartrelic.dev/) es un framewor simple y eficiente para crear APIs Rest Full 
@@ -35,7 +35,7 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
 
 ### Plataformas y Herramientas
 
-- **Desarrollo con Supabase:** La plataforma [Firebase](https://firebase.google.com), es una plataforma de back end como servicio, ya que te permite desarrollar 
+- **Desarrollo con Supabase:** La plataforma [Supabase](https://supabase.com/), es una plataforma de back end como servicio, ya que te permite desarrollar 
   apps sin preocuparte por la complejidad del back end, eso permite ahorrar tiempo y dinero, ademas supabase cuanta con una serie de servicios
   clave que permiten la rapidad instalcion, algunos servicios son: base de datos, almacenamieto de archivos, identidad entre otros.
 
@@ -60,12 +60,10 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
   compatible con Flutter y Android para implementar modelos IA desde la nube usando la API de Gemini
   consultar la [documentacion](https://ai.google.dev/).
 
-
 - **Integración con Cosmos DB:** Gracias al paradigma de las bases de datos como servicios [
   (DBaaS)](https://techlib.net/techedu/base-de-datos-como-servicio-dbaas/) que permite usar 
   bases de datos directamente desde nuestra aplicacion [Azure Cosmos DB](https://azure.microsoft.com/es-es/products/cosmos-db/)
   es una eccelente opcion gracias a todas sus caracteristicas por eso es una opcion recomendada.
-
 
 - **Integración con el SDK de ArcGIS:** Se usa para la implementacion de mapas, georeferenciados, 
   en diferentes tipo de aplicaciones, para esto se usa el SDK [ArcGIS](https://developers.arcgis.com/) para 
