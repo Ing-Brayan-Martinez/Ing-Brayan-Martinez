@@ -7,25 +7,10 @@
 
 Mi nombre es Brayan Martinez, me dedico al desarrollo de soluciones de software a medida, para clientes nacionales 
 e internacionales, usando un conjunto de tecnologías específicas, me considero un programador Senior por toda la 
-experiencia acumulada desde el 2017 hasta hoy en la diversidad de proyectos ejecutados, actualmente me estoy enfocando
-en el nicho de mercado de la industria FinTech, la cual ha tenido un gran auge desde el 2020. Estoy abierto a todo tipo
-de posibilidades de empleo. Yo estoy buscando una oportunidad de empleo donde exista estabilidad laboral a largo plazo
-para poder crecer como persona y como profesional. Para entender que tipo de soluciones puedo aportar, veamos lo 
-siguiente:
-
-### Soluciones Web
-
-- **Desarrollo con Vue:** Durante la ultima 2 decadas las tecnologias web como js, css y 
-  html han sido la principal opcion para construir aplicaciones para multitud de empresas, 
-  partiendo de este contexto personalmente me he decidido a usar [Vue](https://vuejs.org/) 
-  ya que es el framework Javascript, el cual tengo mayor experiencia, y me con el que ha tocado 
-  resolver imporatantes retos en varios proyectos, una de las ventaja de Vue es que 
-  soporta [Vite](https://vite.dev/) y sobretodo el soporte de unit testing usando 
-  [Vitest](https://vitest.dev/guide/). Otro aspecto importante es usar alguna librería de 
-  componentes con Vue tenemos [Vuetify](https://vuetifyjs.com/en/) tambien contamos con un 
-  excelente gestor de estado llamado [Pinia](https://pinia.vuejs.org/) como puede observar Vue 
-  cuenta con un buen ecosistema ideal para crear aplicaciones web grandes como: ERPs, 
-  banca en linea, tiendas online, plataforma educativas, entro tipo de soluciones tecnologicas.
+experiencia acumulada desde el 2017 hasta hoy, en la diversidad de proyectos ejecutados, actualmente me estoy enfocando
+en desarrollar soluciones con los lenguajes Dart y Rust con una vision moderna, durante mucho tiempo fuy un desarrollador 
+Java especializado, ahora me muevo con proyectos un poca mas simples. Estoy abierto a cualquier oportunidad de empleo 
+donde exista estabilidad laboral a largo plazo para poder crecer como persona y como profesional.
 
 ### Soluciones con Dart
 
@@ -35,13 +20,35 @@ siguiente:
   mayor alcance de usuarios en distintas plataformas. Flutter es ideal para pequeños negocios como: restaurantes, 
   neo-bancos, empresas de movilidad, empresas de redes sociales, Entre otro tipo de empresas.
 
-### Soluciones con Kotlin
+- **Desarrollo con Jaspr:** Actualmente tengo pendiente aprender esto, es una tecnolgia interesante por que [Jaspr](https://jaspr.site/) permite
+  construir sitios web usando lenguaje Dart que renderizan HTML, CSS, JS de forma tradicional, de forma cencilla usando 
+  componentes, es una forma alternativa de crear pajinas web de los framewos js tradicionales.
 
-- **Desarrollo con Android:** El sistema [Android](https://developer.android.com/) es un sistema 
-  operativo de Google, que es muy popular en el mercado, gracias a [Kotlin](https://kotlinlang.org/), se puede crear soluciones para ello
-  usando los DSL de [Gradle](https://gradle.org/) y [Jetpack Compose](https://developer.android.com/develop/ui/compose), el cual es un framework de Android para crear 
-  interfaces de usuario de manera declartiva similar a Flutter, ahora es posible invertir en Front End con Kotlin
-  y la JVM.
+- **Desarrollo con Relic:** Actualmente tengo pendiente aprender esto, es una tecnolgia reciente para crear back end usando el
+  lenguaje Dart, [Relic](https://docs.dartrelic.dev/) es un framewor simple y eficiente para crear APIs Rest Full 
+
+### Soluciones con Rust
+
+- **Desarrollo con Rust:** Es una tecnologia consolidada en el mercado para desarrollo de codigo de bajo nivel de alta eficiencia,
+  esto es ideal para construir soluciones de alta eficiencia, mi objetivo con Rust es construir librerias que requieran una alta
+  disponibilidad y eficiencia, para usarlas en conjunto con Dart para opcines extremas de efieciencia 
+
+### Plataformas y Herramientas
+
+- **Desarrollo con Supabase:** La plataforma [Firebase](https://firebase.google.com), es una plataforma de back end como servicio, ya que te permite desarrollar 
+  apps sin preocuparte por la complejidad del back end, eso permite ahorrar tiempo y dinero, ademas supabase cuanta con una serie de servicios
+  clave que permiten la rapidad instalcion, algunos servicios son: base de datos, almacenamieto de archivos, identidad entre otros.
+
+- **Desarrollo con Firebase:** La plataforma [Firebase](https://firebase.google.com) te permite desarrollar apps sin preocuparte por la complejidad del back end, ya
+  que se basa en el modelo **back end como servicio (BasS)** el cual te brinda soluciones pre construidas de solo conectar y usar como almacenamieto 
+  de archivos, analitica, base de datos, identidad entre otros.
+
+- **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos
+  [DevOps](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops), es importante el
+  uso de la CI/CD y todos los conceptos relacionados al mismo, como los manejadores de paquetes, el análisis estático
+  del código, pruebas unitarias, registro de contenedores, etc, Para hacer esto posible utilizo la plataform de
+  [Github](https://github.com/) y las GitHub Actions para poder administrarvel codigo esta plataforma es
+  completamente compatible con Azure ya que ambas son parte de Microsft.
 
 ### Integraciones de APIs, SDKs, y Agentes AI.
 
@@ -64,30 +71,9 @@ siguiente:
   en diferentes tipo de aplicaciones, para esto se usa el SDK [ArcGIS](https://developers.arcgis.com/) para 
   generar mapas de alta calida
 
-
-- **Integración con los SDK de Firebase:** La plataforma [Firebase](https://firebase.google.com)
-  te permite desarrollar apps sin preocuparte por la complejidad del back end, ya que se basa en el 
-  modelo **back end como servicio (BasS)** el cual te brinda soluciones pre construidas de solo 
-  conectar y usar como almacenamieto de archivos, analitica, base de datos, identidad entre otros. 
-  Firebase es compatible con multiple frameworks comoo Flutter, Vue, Android y IOS.
-
-
 - **Integración con Blockchain:** Las aplicaciones basadas en Web3, DeFi y Blockchain, son un 
   tipo de apliciación muy utilizada en mundo FinTech para realizar la integración en los 
-  distintos framework tenemos:
-  - [web3dart](https://pub.dev/packages/web3dart). Para Flutter. 
-  - [web3.js](https://docs.web3js.org/). Para Vue. 
-  - [web3j](https://docs.web3j.io/4.8.7/). Para Android. 
-  - [web3swift](https://github.com/web3swift-team/web3swift). Para IOS.
-  
-  Gracias a todas estas librerías, es posible interactuar con la Blockchain basadas en Web3 y 
-  los famosos contratos inteligentes como forma de dinero programable.
+  distintos framework tenemos, [web3dart](https://pub.dev/packages/web3dart). Para Flutter. Gracias a todas estas librerías, es 
+  posible interactuar con la Blockchain basadas en Web3 y los famosos contratos inteligentes como 
+  forma de dinero programable.
 
-### Soluciones con GitHub
-
-- **Desarrollo con GitHub:**  Otros temas importante es la implementacion de los ciclos 
-  [DevOps](https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-devops), es importante el 
-  uso de la CI/CD y todos los conceptos relacionados al mismo, como los manejadores de paquetes, el análisis estático
-  del código, pruebas unitarias, registro de contenedores, etc, Para hacer esto posible utilizo la plataform de 
-  [Github](https://github.com/) y las GitHub Actions para poder administrarvel codigo esta plataforma es 
-  completamente compatible con Azure ya que ambas son parte de Microsft.

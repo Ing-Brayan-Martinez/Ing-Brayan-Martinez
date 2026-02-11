@@ -16,4 +16,24 @@ Aprender Zapier
 Aprender N8N
 Aprender Cloudflare
 
+### Soluciones Web
 
+- **Desarrollo con Vue:** Durante la ultima 2 decadas las tecnologias web como js, css y
+  html han sido la principal opcion para construir aplicaciones para multitud de empresas,
+  partiendo de este contexto personalmente me he decidido a usar [Vue](https://vuejs.org/)
+  ya que es el framework Javascript, el cual tengo mayor experiencia, y me con el que ha tocado
+  resolver imporatantes retos en varios proyectos, una de las ventaja de Vue es que
+  soporta [Vite](https://vite.dev/) y sobretodo el soporte de unit testing usando
+  [Vitest](https://vitest.dev/guide/). Otro aspecto importante es usar alguna librería de
+  componentes con Vue tenemos [Vuetify](https://vuetifyjs.com/en/) tambien contamos con un
+  excelente gestor de estado llamado [Pinia](https://pinia.vuejs.org/) como puede observar Vue
+  cuenta con un buen ecosistema ideal para crear aplicaciones web grandes como: ERPs,
+  banca en linea, tiendas online, plataforma educativas, entro tipo de soluciones tecnologicas.
+
+### Soluciones con Kotlin
+
+- **Desarrollo con Android:** El sistema [Android](https://developer.android.com/) es un sistema
+  operativo de Google, que es muy popular en el mercado, gracias a [Kotlin](https://kotlinlang.org/), se puede crear soluciones para ello
+  usando los DSL de [Gradle](https://gradle.org/) y [Jetpack Compose](https://developer.android.com/develop/ui/compose), el cual es un framework de Android para crear
+  interfaces de usuario de manera declartiva similar a Flutter, ahora es posible invertir en Front End con Kotlin
+  y la JVM.
