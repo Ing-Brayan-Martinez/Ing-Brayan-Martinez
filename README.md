@@ -22,21 +22,21 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
 
 - **Desarrollo con Jaspr:** Actualmente tengo pendiente aprender esto, es una tecnolgia interesante por que [Jaspr](https://jaspr.site/) permite
   construir sitios web usando lenguaje Dart que renderizan HTML, CSS, JS de forma tradicional, de forma cencilla usando 
-  componentes, es una forma alternativa de crear pajinas web de los framewos Js tradicionales.
+  componentes, es una forma alternativa de crear pajinas web de los framewos JS tradicionales.
 
 - **Desarrollo con Relic:** Actualmente tengo pendiente aprender esto, es una tecnolgia reciente para crear back end usando el
-  lenguaje Dart, [Relic](https://docs.dartrelic.dev/) es un framewor simple y eficiente para crear APIs Rest Full 
+  lenguaje Dart, [Relic](https://docs.dartrelic.dev/) es un framewor simple y eficiente para crear APIs Rest Full. 
 
 ### Soluciones con Rust
 
 - **Desarrollo con Rust:** Es una tecnologia consolidada en el mercado para desarrollo de codigo de bajo nivel de alta eficiencia,
   esto es ideal para construir sistemas concurrentes y de mision critica, mi objetivo con Rust es construir librerias que requieran una alta
-  disponibilidad y eficiencia, para usarlas en conjunto con Dart para opcines extremas de efieciencia 
+  disponibilidad y eficiencia, para usarlas en conjunto con Dart para opciones extremas de efieciencia para el lenguaje Dart.
 
 ### Plataformas y Herramientas
 
-- **Desarrollo con Supabase:** La plataforma [Supabase](https://supabase.com/), es una plataforma de back end como servicio, ya que te permite desarrollar 
-  apps sin preocuparte por la complejidad del back end, eso permite ahorrar tiempo y dinero, ademas supabase cuanta con una serie de servicios
+- **Desarrollo con Supabase:** La plataforma [Supabase](https://supabase.com/), es una plataforma de back end como servicio (BasS), ya que te permite
+  desarrollar apps sin preocuparte por la complejidad del back end, eso permite ahorrar tiempo y dinero, ademas supabase cuanta con una serie de servicios
   clave que permiten la rapidad instalcion, algunos servicios son: base de datos, almacenamieto de archivos, identidad entre otros.
 
 - **Desarrollo con Firebase:** La plataforma [Firebase](https://firebase.google.com) te permite desarrollar apps sin preocuparte por la complejidad del back end, ya
@@ -67,7 +67,7 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
 
 - **Integración con el SDK de ArcGIS:** Se usa para la implementacion de mapas, georeferenciados, 
   en diferentes tipo de aplicaciones, para esto se usa el SDK [ArcGIS](https://developers.arcgis.com/) para 
-  generar mapas de alta calida
+  generar mapas de alta calidad.
 
 - **Integración con Blockchain:** Las aplicaciones basadas en Web3, DeFi y Blockchain, son un 
   tipo de apliciación muy utilizada en mundo FinTech para realizar la integración en los 
