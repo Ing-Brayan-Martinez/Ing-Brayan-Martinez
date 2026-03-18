@@ -7,10 +7,8 @@
 
 Mi nombre es Brayan Martinez, me dedico al desarrollo de soluciones de software a medida, para clientes nacionales 
 e internacionales, usando un conjunto de tecnologías específicas, me considero un programador Senior por toda la 
-experiencia acumulada desde el 2017 hasta hoy, en la diversidad de proyectos ejecutados, actualmente me estoy enfocando
-en desarrollar soluciones con los lenguajes Dart y Rust con una vision moderna, durante mucho tiempo fuy un desarrollador 
-Java especializado, ahora me muevo con proyectos, mas demandados y simples. Estoy abierto a cualquier oportunidad de empleo 
-donde exista estabilidad laboral a largo plazo para poder crecer como persona y como profesional.
+experiencia acumulada desde el 2017 hasta hoy. Estoy abierto a cualquier oportunidad de empleo donde exista estabilidad 
+laboral a largo plazo para poder crecer como persona y como profesional.
 
 ### Soluciones con Dart
 
@@ -43,6 +41,11 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
   - [Spring Boot MVC con Gradle](https://github.com/Ing-Brayan-Martinez/Kotlin-SpringBoot-Gradle-Example)
   - [Spring Boot MVC con Maven](https://github.com/Ing-Brayan-Martinez/Kotlin-SpringBoot-Maven-Example)
   - [Spring Cloud](https://github.com/Ing-Brayan-Martinez/Kotlin-SpringBoot-Example)
+
+- **Desarrollo con VertX:** Es una tecnologia interesante para el desarrollo de microservicios, [VertX](https://vertx.io/) 
+  es una framework para desarrollar microservicios en Java y Kotlin, es basado en el modelo reactive y el evento driven, 
+  es una tecnologia muy potente y escalable, para desarrollar microservicios de manera rapida y eficiente. Veamos algunos ejemplos:
+  - [VertX](https://github.com/Ing-Brayan-Martinez/Java-Vertx-Example)
 
 ### Plataformas y Herramientas
 
