@@ -37,3 +37,14 @@ Aprender Cloudflare
   usando los DSL de [Gradle](https://gradle.org/) y [Jetpack Compose](https://developer.android.com/develop/ui/compose), el cual es un framework de Android para crear
   interfaces de usuario de manera declartiva similar a Flutter, ahora es posible invertir en Front End con Kotlin
   y la JVM.
+
+ ### Soluciones con Rust
+
+ - **Desarrollo con Rust:** Es una tecnologia consolidada en el mercado para desarrollo de codigo de bajo nivel de alta eficiencia,
+   esto es ideal para construir sistemas concurrentes y de mision critica, mi objetivo con Rust es construir librerias que requieran una alta
+   disponibilidad y eficiencia, para usarlas en conjunto con Dart para opciones extremas de efieciencia para el lenguaje Dart.
+
+### Soluciones con Dart
+
+- **Desarrollo con Relic:** Actualmente tengo pendiente aprender esto, es una tecnolgia reciente para crear back end usando el
+  lenguaje Dart, [Relic](https://docs.dartrelic.dev/) es un framewor simple y eficiente para crear APIs Rest Full.

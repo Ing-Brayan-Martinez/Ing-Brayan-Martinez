@@ -28,14 +28,21 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
   construir sitios web usando lenguaje Dart que renderizan HTML, CSS, JS de forma tradicional, de forma cencilla usando 
   componentes, es una forma alternativa de crear pajinas web de los framewos JS tradicionales.
 
-- **Desarrollo con Relic:** Actualmente tengo pendiente aprender esto, es una tecnolgia reciente para crear back end usando el
-  lenguaje Dart, [Relic](https://docs.dartrelic.dev/) es un framewor simple y eficiente para crear APIs Rest Full. 
+### Soluciones con Java/Kotlin
 
-### Soluciones con Rust
+- **Desarrollo con Spring Boot:** Es una tecnologia consolidada en el mercado para desarrollo back end, 
+  [Spring Boot](https://spring.io/projects/spring-boot) es un framework para desarrollar aplicaciones 
+  back end de manera rapida y eficiente, con un enfoque en la simplificacion de la configuracion y el desarrollo.
 
-- **Desarrollo con Rust:** Es una tecnologia consolidada en el mercado para desarrollo de codigo de bajo nivel de alta eficiencia,
-  esto es ideal para construir sistemas concurrentes y de mision critica, mi objetivo con Rust es construir librerias que requieran una alta
-  disponibilidad y eficiencia, para usarlas en conjunto con Dart para opciones extremas de efieciencia para el lenguaje Dart.
+  Veamos algunos ejemplos en Java:
+  - [Spring Beans](https://github.com/Ing-Brayan-Martinez/Java-SpringBoot-BeansFactory)
+  - [Spring Boot Jpa](https://github.com/Ing-Brayan-Martinez/Java-SpringBoot-JPA)
+  - [Spring Boot WebFlux](https://github.com/Ing-Brayan-Martinez/Java-SpringBoot-WebFlux)
+
+  Veamos algunos ejemplos en Kotlin:
+  - [Spring Boot MVC con Gradle](https://github.com/Ing-Brayan-Martinez/Kotlin-SpringBoot-Gradle-Example)
+  - [Spring Boot MVC con Maven](https://github.com/Ing-Brayan-Martinez/Kotlin-SpringBoot-Maven-Example)
+  - [Spring Cloud](https://github.com/Ing-Brayan-Martinez/Kotlin-SpringBoot-Example)
 
 ### Plataformas y Herramientas
 
