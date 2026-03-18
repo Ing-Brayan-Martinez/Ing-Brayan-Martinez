@@ -18,7 +18,11 @@ donde exista estabilidad laboral a largo plazo para poder crecer como persona y 
   base de código se puede crear **soluciones multiplataforma (Web, Mobil, Desktop)** de manera limpia, segura y con un 
   excelente acabado estético, ideal para ahorrar costo, crear un producto atractivo para el usuario final y tener un 
   mayor alcance de usuarios en distintas plataformas. Flutter es ideal para pequeños negocios como: restaurantes, 
-  neo-bancos, empresas de movilidad, empresas de redes sociales, Entre otro tipo de empresas.
+  neo-bancos, empresas de movilidad, empresas de redes sociales, entre otro tipo de empresas, Veamos Algunos ejemplos:
+  - [Dsjtra example](https://github.com/Ing-Brayan-Martinez/flutter_dijkstra_example)
+  - [AraGis example](https://github.com/Ing-Brayan-Martinez/osm_flutter_demo)
+  - [Gemini example](https://github.com/Ing-Brayan-Martinez/dart_gemini_example)
+  - [Flutter example](https://github.com/Ing-Brayan-Martinez/dart_flutter_example.git)
 
 - **Desarrollo con Jaspr:** Actualmente tengo pendiente aprender esto, es una tecnolgia interesante por que [Jaspr](https://jaspr.site/) permite
   construir sitios web usando lenguaje Dart que renderizan HTML, CSS, JS de forma tradicional, de forma cencilla usando 
