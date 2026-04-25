@@ -5,10 +5,10 @@
     alt="Code" width="800"/>
 </h1>
 
-Mi nombre es Brayan Martinez, me dedico al desarrollo de soluciones de software a medida, para clientes nacionales 
-e internacionales, usando un conjunto de tecnologías específicas, me considero un programador Senior por toda la 
-experiencia acumulada desde el 2017 hasta hoy. Estoy abierto a cualquier oportunidad de empleo donde exista estabilidad 
-laboral a largo plazo para poder crecer como persona y como profesional.
+Mi nombre es Brayan Martinez, soy desarrollador Full Stack, me dedico al  desarrollo de soluciones de software 
+a medida, para clientes nacionales  e internacionales, usando un conjunto de tecnologías específicas  (Supabase, 
+Spring Boot, Flutter, Vue),  puedo lograr que su empresa  pueda funcionar con mayor eficiencia, con la automatización 
+de procesos  de negocio, a través de software a medida e implementación de  arquitecturas de software.
 
 ### Soluciones con Dart
 
@@ -21,10 +21,6 @@ laboral a largo plazo para poder crecer como persona y como profesional.
   - [AraGis example](https://github.com/Ing-Brayan-Martinez/osm_flutter_demo)
   - [Gemini example](https://github.com/Ing-Brayan-Martinez/dart_gemini_example)
   - [Flutter example](https://github.com/Ing-Brayan-Martinez/dart_flutter_example.git)
-
-- **Desarrollo con Jaspr:** Actualmente tengo pendiente aprender esto, es una tecnolgia interesante por que [Jaspr](https://jaspr.site/) permite
-  construir sitios web usando lenguaje Dart que renderizan HTML, CSS, JS de forma tradicional, de forma cencilla usando 
-  componentes, es una forma alternativa de crear pajinas web de los framewos JS tradicionales.
 
 ### Soluciones con Java/Kotlin
 

@@ -46,6 +46,10 @@ Aprender Cloudflare
 
 ### Soluciones con Dart
 
+- **Desarrollo con Jaspr:** Actualmente tengo pendiente aprender esto, es una tecnolgia interesante por que [Jaspr](https://jaspr.site/) permite
+  construir sitios web usando lenguaje Dart que renderizan HTML, CSS, JS de forma tradicional, de forma cencilla usando
+  componentes, es una forma alternativa de crear pajinas web de los framewos JS tradicionales.
+
 - **Desarrollo con Relic:** Actualmente tengo pendiente aprender esto, es una tecnolgia reciente para crear back end usando el
   lenguaje Dart, [Relic](https://docs.dartrelic.dev/) es un framewor simple y eficiente para crear APIs Rest Full.
 
