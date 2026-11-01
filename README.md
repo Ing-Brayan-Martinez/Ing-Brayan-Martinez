@@ -10,7 +10,7 @@ a medida, para clientes nacionales  e internacionales, usando un conjunto de tec
 lograr que su empresa pueda funcionar con mayor eficiencia, con la automatización de procesos de negocio, a 
 través de solucione de software a medida.
 
-# Tecnologia 🟢
+# Tecnologia 🔵
 
 ### Soluciones con Dart 🐦
 
