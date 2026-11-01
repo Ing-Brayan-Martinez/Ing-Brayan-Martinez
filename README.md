@@ -10,7 +10,7 @@ a medida, para clientes nacionales  e internacionales, usando un conjunto de tec
 lograr que su empresa pueda funcionar con mayor eficiencia, con la automatización de procesos de negocio, a 
 través de solucione de software a medida.
 
-# Tecnologia 🔵
+# Tecnologia 🟢
 
 ### Soluciones con Dart 🐦
 
@@ -33,7 +33,7 @@ través de solucione de software a medida.
   ecosistema ideal para crear aplicaciones web grandes como: ERPs, banca en linea, tiendas online, plataforma educativas, entro tipo
   de soluciones tecnologicas.
 
-### Soluciones Java 🐍
+### Soluciones Java 🐕
 
 - **Desarrollo con Spring Boot:** Es una tecnologia consolidada en el mercado para desarrollo back end,
   [Spring Boot](https://spring.io/projects/spring-boot) es un framework para desarrollar aplicaciones
