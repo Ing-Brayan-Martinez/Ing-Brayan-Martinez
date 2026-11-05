@@ -37,10 +37,8 @@ través de solucione de software a medida.
 ### Soluciones Java 🐕
 
 - **Desarrollo con Spring Boot:** Es una tecnologia consolidada en el mercado para desarrollo back end,
-  [Spring Boot](https://spring.io/projects/spring-boot) es un framework para desarrollar aplicaciones
-  back end de manera rapida y eficiente, con un enfoque en la simplificacion de la configuracion y el desarrollo.
-
-  Veamos algunos ejemplos en Java:
+  [Spring Boot](https://spring.io/projects/spring-boot) es un framework para desarrollar aplicaciones back end de manera 
+  rápida y eficiente, con un enfoque en la simplificacion de la configuracion y el desarrollo. Veamos algunos ejemplos:
   - [Spring Beans](https://github.com/Ing-Brayan-Martinez/Java-SpringBoot-BeansFactory)
   - [Spring Boot Jpa](https://github.com/Ing-Brayan-Martinez/Java-SpringBoot-JPA)
   - [Spring Boot WebFlux](https://github.com/Ing-Brayan-Martinez/Java-SpringBoot-WebFlux)
@@ -62,7 +60,7 @@ través de solucione de software a medida.
 
 - **Desarrollo con Axum:** Es un framework backend echo en [Rust](https://rust-lang.org/) tecnologia consolidada en el mercado para desarrollo 
   de codigo de bajo nivel de alta eficiencia, esto es ideal para construir sistemas concurrentes y de mision critica, con 
-  [Axum](https://docs-rs.translate.goog/axum/latest/axum/index.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc) puedes construir API Rest Full 
+  [Axum](https://docs.rs/axum/0.8.9/axum/) y [Tokio](https://docs.rs/tokio/1.54.1/tokio/) puedes construir API Rest Full 
   similar a node.js de forma simple, estoy entrando en esto, es algo nuevo para mi
 
 ### Soluciones con PHP 🐘
