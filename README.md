@@ -61,8 +61,9 @@ través de solucione de software a medida.
 - **Desarrollo con Axum:** Es un framework backend echo en [Rust](https://rust-lang.org/) tecnologia consolidada en el mercado para desarrollo 
   de codigo de bajo nivel de alta eficiencia, esto es ideal para construir sistemas concurrentes y de mision critica, con 
   [Axum](https://docs.rs/axum/0.8.9/axum/) y [Tokio](https://docs.rs/tokio/1.54.1/tokio/) puedes construir API Rest Full 
-  similar a node.js de forma simple, estoy entrando en esto, es algo nuevo para mi
-
+  similar a node.js de forma simple. Veamos algunos ejemplos:
+  - [Axum Example](https://github.com/Ing-Brayan-Martinez/Rust-Axum-Example)
+  
 ### Soluciones con PHP 🐘
 
 - **Desarrollo con Laravel:** Es un framework php para crea aplicaciones MVC o API Rest Full facil y practico aun usado en la industria, con Laravel
